@@ -1,0 +1,6 @@
+{
+  "name": "Aura Joias - E-Commerce de Alta Joalheria",
+  "description": "Loja virtual completa de joias e acessórios finos com checkout, PIX dinâmico, controle de estoque com reservas concorrentes, painel administrativo RBAC e autenticação segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
